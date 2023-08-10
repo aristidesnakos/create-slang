@@ -1,0 +1,14 @@
+# Django and related packages
+Django>4.0
+djangorestframework
+django-cors-headers
+
+# OpenAI package for GPT-4 integration
+openai>=0.27.0
+
+# Placeholder for langchain (replace with the correct reference if needed)
+langchain
+
+# Additional packages for general use (modify as needed)
+gunicorn>=20.1
+psycopg2-binary>=2.9 # if using PostgreSQL

@@ -1,0 +1,25 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/create-slang-frontend/node_modules
+/create-slang-frontend/.pnp
+/create-slang-frontend/.pnp.js
+
+# testing
+/create-slang-frontend/coverage
+
+# production
+/create-slang-frontend/build
+
+# misc
+/create-slang-frontend/.DS_Store
+/create-slang-frontend/.env.local
+/create-slang-frontend/.env.development.local
+/create-slang-frontend/.env.test.local
+/create-slang-frontend/.env.production.local
+
+/create-slang-frontend/npm-debug.log*
+/create-slang-frontend/yarn-debug.log*
+/create-slang-frontend/yarn-error.log*
+
+/env
